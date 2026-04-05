@@ -101,3 +101,7 @@ jupyter notebook
 4. Run all cells to reproduce results
 
 ---
+## 🎯 Motivation
+
+This project was built as part of my preparation for Data Science master's programs. 
+I focused on understanding how time series forecasting works on real business data.
